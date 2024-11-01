@@ -1,0 +1,72 @@
+.tlp_loading{
+    background: url('loading.gif') no-repeat center center;
+    padding: 11px;
+}
+
+.tlp-field {
+    float: right;
+    width: 75%;
+}
+.testimonial-field-holder {
+    margin-top: 20px;
+}
+
+.tplp-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    float: left;
+    width: 25%;
+}
+
+.tlp-field-holder {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.tlp-field textarea, .tlp-field input[type=text],.tlp-field input[type=url] , .tlp-field input[type=email]{
+	width: 75%;
+}
+
+.tlp-field span.desc {
+    display: block;
+    margin-top: 5px;
+    color: gray;
+    font-style: italic;
+}
+
+.social-link label {
+    display: block;
+}
+
+.tlp-field .social-link {
+    margin-bottom: 10px;
+}
+
+.tlp_slink{
+    border-bottom: 1px solid #eee;
+}
+
+#response{
+	display: none;
+	padding: 10px 10px 10px 20px;
+	margin: 10px 0;
+}
+
+.sRemove,.skRemove{
+    color: red;
+    cursor: pointer;
+}
+.social-h2{
+    margin-bottom: 10px;
+}
+
+td.fSelection label {
+    display: block;
+    margin-bottom: 3px;
+}
+/* hide */
+
+#tagsdiv-tlp_designation, #tagsdiv-tlp_skill{
+    display: none;
+}

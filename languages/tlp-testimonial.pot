@@ -1,0 +1,161 @@
+# Copyright (C) 2015 the Food menu
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tlp Food Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Md Mahbubur Rahman <rasel.cste@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: /lib/views/settings.php:8
+msgid "TLP Testimonial Settings"
+msgstr ""
+
+#: /lib/views/settings.php:13
+msgid "General settings"
+msgstr ""
+
+#: /lib/views/settings.php:18
+msgid "Image Size"
+msgstr ""
+
+#: /lib/views/settings.php:19
+msgid "(Width * Height)"
+msgstr ""
+
+#: /lib/views/settings.php:28
+msgid "Short Code"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:71
+msgid "TLP Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:72
+msgid "Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:73
+msgid "TLP Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:74
+msgid "Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:75
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:76
+msgid "All Testimonials"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:77
+msgid "Add New Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:78
+msgid "Add Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:79
+msgid "New Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:80
+msgid "Edit Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:81
+msgid "Update Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:82
+msgid "View Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:84
+msgid "Search Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:85
+msgid "Not found in Trash"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:88
+msgid "TLP Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:89
+msgid "Testimonial"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:191
+msgid "Designations"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:203
+msgid "Company"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:213
+msgid "Location"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:234
+msgid "TLP Testimonial Settings"
+msgstr ""
+
+#: /lib/classes/TPLtestiSettings.php:234
+msgid "Settings"
+msgstr ""
+
+#: /lib/classes/TPLtestiShortCode.php:86
+msgid "No testimonial found"
+msgstr ""
+
+#: /lib/classes/TPLtestiSupprot.php:20
+msgid "Auto Play"
+msgstr ""
+
+#: /lib/classes/TPLtestiSupprot.php:21
+msgid "Nav Button"
+msgstr ""
+
+#: /lib/classes/TPLtestiSupprot.php:22
+msgid "Stop Hover"
+msgstr ""
+
+#: /lib/classes/TPLtestiSupprot.php:23
+msgid "Responsive"
+msgstr ""
+
+#: /lib/classes/TPLtestiSupprot.php:24
+msgid "Auto Height"
+msgstr ""
+
+#: /lib/classes/TPLtestiSupprot.php:25
+msgid "Lazy Load"
+msgstr ""
+
+#: /lib/widgets/TLPtestiOwlCarosuel.php:223
+msgid "Title"
+msgstr ""
+
+#: /lib/widgets/TLPtestiOwlCarosuel.php:226
+msgid "Number of member per slide:"
+msgstr ""
+
+#: /lib/widgets/TLPtestiOwlCarosuel.php:229
+msgid "Total Number of member:"
+msgstr ""
+
+#: /lib/widgets/TLPtestiOwlCarosuel.php:232
+msgid "Slide Speed:"
+msgstr ""
